@@ -83,5 +83,18 @@
     },
     "visitDurationInMin": 15
   }
-]
+],
+ 
+ "doctor":  {
+    "id": "7",
+    "name": "Dr. Mary Ellis 26",
+    "org": "ABC Hospital",
+    "speciality": "BDS, MDS - Oral Maxillofacial Surgery",
+    "availabilities": {
+      "sat": "10:00 AM - 06:00 PM",
+      "sun": "10:00 AM - 06:00 PM",
+      "wed": "06:00 PM - 09:00 PM"
+    }
+ 
+ 
 }
