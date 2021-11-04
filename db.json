@@ -1,17 +1,16 @@
 {
   "user": {
-    "name": "Ashik"},
+    "name": "Ashik"
+  },
   "doctores": [
     {
       "id": "1",
       "name": "Dr. John Doe",
       "org": "Kings London Hospital",
-      "speciality": "BDS, MDS - Oral Maxillofacial Surgery",
+      "speciality": "BDS, MDS - Spondylolisthesis",
       "availabilities": {
         "sun": "10:00 AM - 06:00 PM",
-        "mon": "10:00 AM - 06:00 PM",
-        "wed": "06:00 PM - 09:00 PM",
-        "thu": "06:00 PM - 09:00 PM"
+        "wed": "06:00 PM - 09:00 PM"
       },
       "visitDurationInMin": 15
     },
@@ -19,57 +18,58 @@
       "id": "2",
       "name": "Dr. Mary Ellis",
       "org": "ABC Hospital",
-      "speciality": "BDS, MDS - Oral Maxillofacial Surgery",
+      "speciality": "M.D, M.S - Oral Maxillofacial Surgery",
       "availabilities": {
-        "sat": "06:00 PM - 09:00 PM",
         "sun": "10:00 AM - 06:00 PM",
-        "wed": "06:00 PM - 09:00 PM"
+        "mon": "09:00 PM - 11:00 PM",
+        "thu": "11:00 AM - 02:00 PM"
       },
       "visitDurationInMin": 15
     },
     {
       "id": "3",
-      "name": "Dr. John Doe 2",
-      "org": "Kings London Hospital",
-      "speciality": "BDS, MDS - Oral Maxillofacial Surgery",
+      "name": "Dr. William A. Abdu",
+      "org": "Children’s Hospital",
+      "speciality": "M.D, M.S - Spondylotic Myelopathy",
       "availabilities": {
-        "sun": "10:00 AM - 06:00 PM",
-        "wed": "06:00 PM - 09:00 PM"
+        "sun": "10:00 AM - 01:00 PM",
+        "mon": "09:00 PM - 11:00 PM",
+        "wed": "06:00 PM - 09:00 PM",
+        "thu": "11:00 AM - 02:00 PM"
       },
       "visitDurationInMin": 15
     },
     {
       "id": "4",
-      "name": "Dr. Mary Ellis 2",
-      "org": "ABC Hospital",
-      "speciality": "BDS, MDS - Oral Maxillofacial Surgery",
+      "name": "Dr. Myles. B. Abbott",
+      "org": "Medstar Harbor Hospital",
+      "speciality": "M.D - Oral Maxillofacial Surgery",
       "availabilities": {
-        "sat": "10:00 AM - 06:00 PM",
-        "sun": "10:00 AM - 06:00 PM",
-        "wed": "06:00 PM - 09:00 PM"
+        "sun": "09:00 AM - 01:00 PM",
+        "wed": "04:00 PM - 07:00 PM"
       },
       "visitDurationInMin": 15
     },
     {
       "id": "5",
-      "name": "Dr. Mary Ellis 059",
-      "org": "ABC Hospital",
-      "speciality": "BDS, MDS - Oral Maxillofacial Surgery",
+      "name": "Dr. Khalid Abbed",
+      "org": "Yale",
+      "speciality": "M.D- Spine Surgery Department",
       "availabilities": {
         "sat": "06:00 PM - 09:00 PM",
-        "sun": "10:00 AM - 06:00 PM",
+        "mon": "07:00 AM - 01:00 PM",
         "wed": "06:00 PM - 09:00 PM"
       },
       "visitDurationInMin": 15
     },
     {
       "id": "6",
-      "name": "Dr. John Doe 25",
-      "org": "Kings London Hospital",
-      "speciality": "BDS, MDS - Oral Maxillofacial Surgery",
+      "name": "Dr. Naresh Trehan",
+      "org": "King George’s Medical College",
+      "speciality": "BDS, MDS - MedantaTM-The Medicity",
       "availabilities": {
         "sun": "10:00 AM - 06:00 PM",
-        "wed": "06:00 PM - 09:00 PM"
+        "tue": "06:00 PM - 01:00 PM"
       },
       "visitDurationInMin": 15
     },
@@ -80,8 +80,8 @@
       "speciality": "BDS, MDS - Oral Maxillofacial Surgery",
       "availabilities": {
         "sat": "10:00 AM - 06:00 PM",
-        "sun": "10:00 AM - 06:00 PM",
-        "wed": "06:00 PM - 09:00 PM"
+        "sun": "10:00 AM - 01:00 PM",
+        "wed": "06:00 PM - 03:00 PM"
       },
       "visitDurationInMin": 15
     }
@@ -92,9 +92,9 @@
     "org": "ABC Hospital",
     "speciality": "BDS, MDS - Oral Maxillofacial Surgery",
     "availabilities": {
-      "sat": "10:00 AM - 06:00 PM",
-      "sun": "10:00 AM - 06:00 PM",
-      "wed": "06:00 PM - 09:00 PM"
+      "sat": "10:00 AM - 01:00 PM",
+      "tue": "11:00 AM - 06:00 PM",
+      "wed": "06:00 PM - 01:00 PM"
     },
     "visitDurationInMin": 15
   }
