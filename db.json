@@ -88,9 +88,9 @@
   ],
   "doctor": {
     "id": "7",
-    "name": "Dr. Mary Ellis 26",
-    "org": "ABC Hospital",
-    "speciality": "BDS, MDS - Oral Maxillofacial Surgery",
+    "name": "Dr. Mark. F. Aaron",
+    "org": "Duke University School of Medicine",
+    "speciality": "M.D. - cardiologists",
     "availabilities": {
       "sat": "10:00 AM - 01:00 PM",
       "tue": "11:00 AM - 06:00 PM",
